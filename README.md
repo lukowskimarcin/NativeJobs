@@ -12,3 +12,5 @@ npx create-expo-app -e with-router
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
+
+https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch
